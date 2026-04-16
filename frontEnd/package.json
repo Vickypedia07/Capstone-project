@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@angular/core": "latest",
+    "@angular/platform-browser": "latest",
+    "@angular/platform-browser-dynamic": "latest",
+    "@angular/common": "latest",
+    "@angular/compiler": "latest",
+    "zone.js": "latest",
+    "core-js": "latest",
+    "rxjs": "latest"
+  },
+  "main": "/src/main.ts",
+  "devDependencies": {}
+}
